@@ -1,0 +1,14 @@
+# Ignore compiled files
+*.o
+*.out
+*.exe
+
+# Ignore binary
+uart
+
+# Ignore logs
+*.log
+
+# Ignore editor files
+.vscode/
+*.swp
